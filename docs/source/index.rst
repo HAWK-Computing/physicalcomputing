@@ -10,7 +10,8 @@ how to :ref:`installation` the project.
 
 .. note::
 
-   This project is under active development.
+   Dieser Kurs findet in der physikalischen Welt immer Mittwochs an der HAWK Hildesheim Fakultät Gestaltung statt.
+   Updates dieser Dokumentation werden immer Mittwochs um 12:00 Uhr hier veröffentlicht
 
 Contents
 --------
