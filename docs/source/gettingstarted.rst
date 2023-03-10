@@ -1,13 +1,8 @@
 Download der richtigen Firmware
 
-Installieren von `Thonny`_
-
-.. _Thonny: https://thonny.org/
-
-A Windows, macOS, or Linux computer with the `Thonny Python IDE`_ installed.
+Installieren von `Thonny Python IDE`_ egal ob Windows, Mac oder Linux
 
 .. _Thonny Python IDE: https://thonny.org/
-
 
 
 
