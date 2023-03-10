@@ -18,5 +18,5 @@ Contents
 --------
 
 .. toctree::
-   KickOff
+   kickoff
    ErsteSchritte
