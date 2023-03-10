@@ -1,12 +1,12 @@
-Usage
+Erste Schritte
 =====
 
 .. _installation:
 
-Installation
+Einrichten der Software
 ------------
 
-To use Lumache, first install it using pip:
+Um mit dem Microcontroller Pi Pico arbeiten zu können, brauchen wir eine Entwicklungsumgebung (IDE) auf dem Computer:
 
 .. code-block:: console
 
