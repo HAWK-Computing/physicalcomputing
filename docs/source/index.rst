@@ -18,6 +18,5 @@ Contents
 --------
 
 .. toctree::
-   gettingstarted
-   usage
-   api
+   KickOff
+   ErsteSchritte
