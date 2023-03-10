@@ -1,6 +1,6 @@
 Download der richtigen Firmware
 
-Installieren von *Thonny*
+Installieren von 'Thonny'_
 
 .. _Thonny: https://thonny.org/
 
