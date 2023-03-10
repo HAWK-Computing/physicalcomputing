@@ -1,4 +1,4 @@
-Willkommen zur Dokumenation des Physical Computing Kurses!
+Welcome to Lumache's documentation!
 ===================================
 
 Hier geht es um die Grundlagen der Microcontrollerprogrammierung.
