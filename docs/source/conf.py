@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'HAWK Physical Computing'
+copyright = '2023'
+author = 'JLK'
 
 release = '0.1'
 version = '0.1.0'
