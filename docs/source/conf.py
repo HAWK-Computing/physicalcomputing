@@ -2,12 +2,12 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'HAWK Physical Computing'
+copyright = '2023, JLK'
+author = 'JLK'
 
-release = '0.1'
-version = '0.1.0'
+release = '0.0'
+version = '0.0.0'
 
 # -- General configuration
 
