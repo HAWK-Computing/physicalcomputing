@@ -1,17 +1,13 @@
-version: 2
+# .readthedocs.yaml
 
 build:
-  os: "ubuntu-22.04"
-  tools:
-    python: "3.9"
-  jobs:
-    post_install:
-      - echo ${testitest}
+  image: latest
 
-sphinx:
-  fail_on_warning: true
+python:
+  version: 3.6
+  setup_py_install: true
 
+# Build PDF & ePub
 formats:
-  - pdf
-  - epub
-
+    - epub
+    - pdf
