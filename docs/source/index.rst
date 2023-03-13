@@ -15,6 +15,8 @@ how to :ref:`installation` the project.
 
 Diese Dokumentation wurde mit Read the Docs erstellt. Many Thanks!!
 
+Contents
+--------
 .. toctree::
    Kickoff
    ErsteSchritte
