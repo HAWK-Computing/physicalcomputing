@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'HAWK Physical Computing'
-copyright = '2023, JLK'
+copyright = '2023, jasper.kuehn@hawk.de'
 author = 'JLK'
 
 release = '0.0'
