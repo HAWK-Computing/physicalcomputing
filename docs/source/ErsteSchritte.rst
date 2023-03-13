@@ -18,6 +18,12 @@ Creating recipes
 To retrieve a list of random ingredients,
 you can use the ``lumache.get_random_ingredients()`` function:
 
+
+.. image:: bilder/PinBelegungPico.png
+    :alt: Pinbelegung Raspberry Pi Pico.
+
+.. literalinclude:: beispiele/HelloWorld.py
+
 .. autofunction:: lumache.get_random_ingredients
 
 The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
