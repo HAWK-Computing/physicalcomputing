@@ -1,7 +1,7 @@
 Erste Schritte
 =====
 
-.. _installation:
+.. _installationsoftware:
 
 Einrichten der Software
 ------------
@@ -16,13 +16,9 @@ läuft auf Windows, Mac und Linux.
    (.HAWKlocalmachine) $ pip install thonny
 
 
-.. _pinout:
 
-Das Pin Out des Raspberry Pi Pico
-----------------
 
-.. image:: bilder/PinBelegungPico.png
-    :alt: Pinbelegung Raspberry Pi Pico.
+
 
 .. literalinclude:: beispiele/HelloWorld.py
 
