@@ -17,7 +17,6 @@ Diese Dokumentation wurde mit Read the Docs erstellt. Many Thanks!!
 
 Inhaltsverzeichnis
 --------
-.. contents:: Overview
-
+.. toctree::
    Kickoff
    ErsteSchritte
