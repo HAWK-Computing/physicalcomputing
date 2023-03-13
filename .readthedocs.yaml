@@ -1,12 +1,11 @@
-version: 0.0.1
+# .readthedocs.yaml
 
 build:
-  os: "ubuntu-22.04"
-  tools:
-    python: "3.9"
-  jobs:
-    post_install:
-      - echo ${testitest}
+  image: latest
+
+python:
+  version: 3.7
+  setup_py_install: true
 
 sphinx:
   fail_on_warning: true
