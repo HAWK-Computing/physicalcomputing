@@ -20,7 +20,10 @@ Hier geht's los: :doc:`ErsteSchritte` für alle weiteren Informationen über die
 Inhaltsverzeichnis
 --------
 
-.. contents:: Overview
+.. toctree::
+   Kickoff
+   ErsteSchritte
+   Raspberry Pi Pico Board
 
 
 Diese Dokumentation dient als Tutorial und Nachschlagewerk und ist als OER Material für alle verfügbar, die Interesse an einer deutschsprachigen Anleitung haben.
