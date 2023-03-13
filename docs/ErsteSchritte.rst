@@ -6,35 +6,37 @@ Erste Schritte
 Einrichten der Software
 ------------
 
-Um mit dem Microcontroller Pi Pico arbeiten zu können, brauchen wir eine Entwicklungsumgebung (IDE) auf dem Computer:
+Um mit dem Microcontroller Pi Pico arbeiten zu können, brauchen wir eine Entwicklungsumgebung (IDE) auf dem Computer. Zum Beispiel die `Thonny Python IDE`_
+läuft auf Windows, Mac und Linux.
+
+.. _Thonny Python IDE: https://thonny.org/
 
 .. code-block:: console
 
-   (.venv) $ pip install lumache
+   (.HAWKlocalmachine) $ pip install thonny
 
-Creating recipes
+
+.. _pinout:
+
+Das Pin Out des Raspberry Pi Pico
 ----------------
-
-To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
-
 
 .. image:: bilder/PinBelegungPico.png
     :alt: Pinbelegung Raspberry Pi Pico.
 
 .. literalinclude:: beispiele/HelloWorld.py
 
-.. autofunction:: lumache.get_random_ingredients
-
-The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
-or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
-will raise an exception.
-
-.. autoexception:: lumache.InvalidKindError
-
 For example:
 
->>> import lumache
->>> lumache.get_random_ingredients()
+>>> import picozero
+>>> # los geht's
 ['shells', 'gorgonzola', 'parsley']
 
+.. _Steckbrett:
+
+Das Steckbrett
+-----------------
+
+Schnell Prototyping mit dem Steckplatine auch genannt `Breadboard`_
+
+.. _Breadboard: https://de.wikipedia.org/wiki/Steckplatine
