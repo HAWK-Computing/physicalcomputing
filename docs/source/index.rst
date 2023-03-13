@@ -14,8 +14,8 @@ how to :ref:`installation` the project.
    Updates dieser Dokumentation werden immer Mittwochs um 12:00 Uhr hier veröffentlicht
 
 Diese Dokumentation wurde mit Read the Docs erstellt. Many Thanks!!
-Contents
---------
+
+.. contents:: Overview
 
 .. toctree::
    Kickoff
