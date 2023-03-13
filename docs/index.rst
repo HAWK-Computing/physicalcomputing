@@ -1,3 +1,7 @@
+.. meta::
+   :description: Physical Computing mit dem Pi Pico
+   :keywords: Sensor, Actor, Physicalcomputing, Programming, Prototyping
+
 Willkommen zum Physical Computing Kurs!
 ===================================
 
@@ -10,16 +14,14 @@ how to :ref:`installation` the project.
 
 .. note::
 
-   Dieser Kurs findet in der physikalischen Welt immer Mittwochs an der HAWK Hildesheim Fakultät Gestaltung statt.
-   Updates dieser Dokumentation werden immer Mittwochs um 12:00 Uhr hier veröffentlicht
+   Dieser Kurs findet in der physikalischen Welt immer Mittwochs an der HAWK Hildesheim Fakultät Gestaltung statt. Updates dieser Dokumentation werden immer Mittwochs um 12:00 Uhr hier veröffentlicht.
 
-Diese Dokumentation wurde mit Read the Docs erstellt. Many Thanks!!
+
 
 Inhaltsverzeichnis
 --------
 
 .. contents:: Overview
 
-.. toctree::
-   Kickoff
-   ErsteSchritte
+
+Diese Dokumentation wurde mit Read the Docs erstellt. Many Thanks!!
