@@ -23,7 +23,7 @@ Inhaltsverzeichnis
 .. toctree::
    Kickoff
    ErsteSchritte
-   Der Raspberry Pi Pico
+   RaspberryPiPico
 
 
 Diese Dokumentation dient als Tutorial und Nachschlagewerk und ist als OER Material für alle verfügbar, die Interesse an einer deutschsprachigen Anleitung haben.
