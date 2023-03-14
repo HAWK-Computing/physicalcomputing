@@ -2,7 +2,7 @@
    :description: Physical Computing mit dem Pi Pico
    :keywords: Sensor, Actor, Physicalcomputing, Programming, Prototyping
 
-Willkommen zum Physical Computing Kurs!
+Physical Computing mit dem Raspberry Pi Pico
 ===================================
 
 Hier geht es um die Grundlagen der Microcontrollerprogrammierung.
@@ -23,7 +23,7 @@ Inhaltsverzeichnis
 .. toctree::
    Kickoff
    ErsteSchritte
-   Raspberry Pi Pico Board
+   Der Raspberry Pi Pico
 
 
 Diese Dokumentation dient als Tutorial und Nachschlagewerk und ist als OER Material für alle verfügbar, die Interesse an einer deutschsprachigen Anleitung haben.
