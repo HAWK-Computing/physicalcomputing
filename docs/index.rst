@@ -24,8 +24,9 @@ Inhaltsverzeichnis
    Kickoff
    ErsteSchritte
    RaspberryPiPico
+   Links_Infos
 
 
-Diese Dokumentation dient als Tutorial und Nachschlagewerk und ist als OER Material für alle verfügbar, die Interesse an einer deutschsprachigen Anleitung haben.
+Diese Dokumentation dient als Tutorial und Nachschlagewerk und ist als OER Material für ALLE verfügbar, die Interesse an einer deutschsprachigen Anleitung haben.
 
 Diese Dokumentation wurde mit Read the Docs erstellt. Many Thanks!!

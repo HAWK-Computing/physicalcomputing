@@ -1,9 +1,12 @@
-Template for the Read the Docs tutorial
+Einstieg in Physical Computing
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+In dieser Dokumentation geht es um den Einstieg ins Programmieren von Microcontrollern.
+Dafür wird der Raspberry Pi Pico mit MicroPython verwendet.
+Hier geht es um die Grundlagen der Programmierung, des Auslesens von Sensoren sowie des Ansteuerns von Aktoren.
 
-Read the tutorial here:
+Ich freu mich über eure Rückmeldungen.
 
-https://docs.readthedocs.io/en/stable/tutorial/
+weitere Informationen über Physical Computing an der HAWK Hildesheim Fakultät Gestaltung findet ihr hier:
+
+https://www.hawk.de/de/hochschule/fakultaeten-und-standorte/fakultaet-gestaltung/werkstaetten/interaction-design-lab
