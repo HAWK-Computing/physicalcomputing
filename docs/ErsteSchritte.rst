@@ -34,11 +34,11 @@ Das Steckbrett
 -----------------
 
 Schnell Prototyping mit dem Steckplatine auch genannt `Breadboard`_
-Oder geht es hier zum `Wikipedia Beitrag`_
+Oder geht es hier zum |WikiSteck|
 
-.. _Wikipedia Beitrag: raw:: html
+.. |WikiSteck| raw:: html
 
-   <a href="https://de.wikipedia.org/wiki/Steckplatine" target:"_blank"></a>
+   <a href="https://de.wikipedia.org/wiki/Steckplatine" target:"_blank">Wikipedia Beitrag</a>
 
 .. _Breadboard: https://de.wikipedia.org/wiki/Steckplatine
 
