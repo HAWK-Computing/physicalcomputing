@@ -2,6 +2,10 @@
 Wichtige Links
 =====
 
+Über den Raspberry Pi Pico:
+-----------------------
+https://www.raspberrypi.com/documentation/microcontrollers/rp2040.html#welcome-to-rp2040
+
 
 Interessante Beispiele:
 -----------------------

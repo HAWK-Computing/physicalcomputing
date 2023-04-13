@@ -23,9 +23,10 @@ Einrichten von Micropython auf dem Pi Pico
 Auf dem Raspberry Pi Pico muss die richtige Firmware (in unserem Fall `Micropython`_ und eventuell später `Circuitpython`_) installieren. 
 
 **Möglichkeit eins:** Flashen der Firmware mit Hilfe der Thonny IDE. Wenn das nicht funktioniert, dann
-**Möglichkeit zwei:** Manuell die `Micropyhton Firmware`_ als UF2 Datei auf den Raspberry Pi Pico. Achtung!! dieser muss sich dafür im Bootloadermodus befinden. `Bootsel Taste` drücken, dann mit dem Computer via `USB Kabel` verbinden. Eine genauere Anleitung gibts auch `hier`_.
+**Möglichkeit zwei:** Manuell die `Micropython Firmware`_ als UF2 Datei auf den Raspberry Pi Pico. Achtung!! dieser muss sich dafür im Bootloadermodus befinden. `Bootsel Taste` drücken, dann mit dem Computer via `USB Kabel` verbinden. Eine genauere Anleitung gibts auch `hier`_.
 
-
+.. _Micropython: https://docs.micropython.org/en/latest/rp2/quickref.html
+.. _Circuitpython: https://circuitpython.org/board/raspberry_pi_pico/
 .. _Micropython Firmware: https://micropython.org/download/rp2-pico/rp2-pico-latest.uf2
 .. _hier: https://www.raspberrypi.com/documentation/microcontrollers/micropython.html
 
