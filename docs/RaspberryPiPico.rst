@@ -13,12 +13,14 @@ Der RP2040 Chip
 
 **RP2040** microcontroller chip von der Rapsberry Pi Foundation 2021 entworfen und entwickelt, bildet das Herzstück für den Raspberry Pi Pico Microcontroller.
 
-.. csv-table:: Die inneren Werte des Pi Pico
-   :header: "Merkmal", Spezifikation"
-   :widths: auto, auto
+.. table:: Die inneren Werte des Pi Pico
+   :widths: grid
 
-   "Prozessor", "Zwei Kerne Arm Cortex M0+"
-   "Taktfrequenz", "bis zu 133 MHz"
+   =====            =====
+   Merkmal          Spezifikation
+   =====            =====  
+   Prozessor        Zwei Kerne Arm Cortex M0+
+   Taktfrequenz     bis zu 133 MHz
    "Speicher", "264kB SRAM und 2MB on-board Flashspeicher"
    "Input/Output", "26 × GPIO pins 2 × SPI, 2 × I2C, 2 × UART, 3 × 12-bit ADC"
    "Stromversorgung", "Spannung Input 2-5,5 V DC"
