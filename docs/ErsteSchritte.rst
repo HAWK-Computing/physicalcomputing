@@ -38,7 +38,7 @@ Auf dem Raspberry Pi Pico muss die richtige Firmware (in unserem Fall `Micropyth
 Das Steckbrett
 -----------------
 
-.. image:: bilder/Steckbrett_Wiring.gif
+.. image:: bilder/Steckbrett_Wiring_kl.gif
     :alt: Verdrahtung eines Steckbretts. Wiring Breadboard
 
 Schnell Prototyping mit dem Steckplatine auch genannt `Breadboard`
