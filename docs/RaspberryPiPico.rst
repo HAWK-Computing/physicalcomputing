@@ -28,7 +28,7 @@ Der `RP2040`_ Chip von der Raspberry Pi Foundation 2021 entworfen und entwickelt
 +------------------------+----------------------------------+
 | Input/Output Pins      | 26 × GPIO Pins                   |
 |                        | 2 × SPI, 2 × I2C, 2 × UART       |    
-|                        | 3 × 12-bit ADC (Analog Digital Wandler)|
+|                        | 3 × 12-bit AnalogDigital Wandler |
 +------------------------+----------------------------------+
 | Stromversorgung        | Spannung Input 2-5,5 V DC        |
 +------------------------+----------------------------------+
