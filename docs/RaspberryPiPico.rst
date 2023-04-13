@@ -11,7 +11,7 @@ Das Pin Out des Raspberry Pi Pico
 Der RP2040 Chip
 -----------------
 
-- **RP2040** microcontroller chip
+**RP2040** microcontroller chip von der Rapsberry Pi Foundation 2021 entworfen und entwickelt, bildet das Herzstück für den Raspberry Pi Pico Microcontroller.
 
 .. csv-table:: Die inneren Werte des Pi Pico
    :header: "Merkmal", Spezifikation"
