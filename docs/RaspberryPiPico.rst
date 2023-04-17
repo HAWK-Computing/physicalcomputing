@@ -44,5 +44,9 @@ Der `RP2040`_ Chip von der Raspberry Pi Foundation 2021 entworfen und entwickelt
 
 .. image:: bilder/RaspberryPiPico_Steckbrett_Kabel.png
     :alt: Startset des Raspberry Pi Pico
+Das Startset: Raspberry Pi Pico auf Steckbrett und USB Kabel.
+
+Zwischen Pi Pico und dem Steckbrett befindet sich eine `Pi Pico Proto <https://www.berrybase.de/raspberry-pi-pico-proto>`_ beschriftete Lochraster Platine. Damit sind die richtigen Pins leichter zu finden.
+
 
 

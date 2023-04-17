@@ -7,11 +7,10 @@ Erste Schritte
 Einrichten der Software
 ------------
 
-Um mit dem Microcontroller Pi Pico arbeiten zu können, brauchen wir eine Entwicklungsumgebung (IDE) auf dem Computer. Zum Beispiel die `Thonny Python IDE`_
-läuft auf Windows, Mac und Linux.
+Um mit dem Microcontroller Raspberry Pi Pico arbeiten zu können, brauchen wir **1.** eine *Entwicklungsumgebung* (*IDE*) auf dem Computer. Die `Thonny Python IDE`_ läuft auf Windows, Mac und Linux ist simple und übersichtlich. Einfach downloaden und installieren.**2.** die richtige *Firmware / Interpreter* auf dem Pi Pico Board.
 
 .. _Thonny Python IDE: https://thonny.org/
-.. _installationMicropython:
+
 
 Einrichten von Micropython auf dem Pi Pico
 -------------
@@ -25,6 +24,17 @@ Auf dem Raspberry Pi Pico muss die richtige Firmware (in unserem Fall `Micropyth
 .. _hier: https://www.raspberrypi.com/documentation/microcontrollers/micropython.html
 .. _SunFounder: https://docs.sunfounder.com/projects/pico-4wd/en/latest/get_started/install_micropython_to_pico.html
 
+.. _HelloWorld:
+
+Das erste Programm
+-------------------
+
+Für das erste Lebenszeichen des Microcontrollers brauchst du das *Steckbrett* noch nicht, denn der Pi Pico besitzt eine *on Board LED* die du mit ein paar Zeilen Code zum Blinken bringen kannst.
+Verbinde dazu den Pico mit dem USB Kabel an deinen Computer und versuche folgenden Code auf dem Board auszuführen.
+
+.. literalinclude:: beispiele/HelloWorld.py
+
+..note:: Probiere aus, wie eine andere LED auf dem Steckbrett zum Blinken gebracht werden kann. Wie kann sie richtig angeschlossen werden? Was muss im Code verändert werden?  
 
 
 Das Steckbrett
@@ -39,14 +49,3 @@ Oder geht es hier zum |WikiSteck|
 .. |WikiSteck| raw:: html
 
    <a href="https://de.wikipedia.org/wiki/Steckplatine" target="_blank">Wikipedia Eintrag</a> über Steckbretter. 
-
-
-.. _HelloWorld:
-
-Das erste Programm
--------------------
-
-Das erste Lebenszeichen des Microcontrollers. Bringe ihn zum Blinken der Onboard LED. Zunächst ohne Steckbrett einfach nur mit dem USB Kabel am Computer.
-
-.. literalinclude:: beispiele/HelloWorld.py
-
