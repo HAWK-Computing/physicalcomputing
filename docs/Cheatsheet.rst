@@ -10,14 +10,16 @@ Programm Basics:
 -----------------------
 
 **Kommentare** helfen dabei sich im Code zurecht zu finden oder bestimmte Codeschnipsel vorübergehend zu deaktivieren ohne sie löschen.
-	
->>> # this is a simple comment, in only one line
->>> """ this is a multi line comment to describe some more details """
+.. sourcecode:: 
+ # this is a simple comment, in only one line
+ """ this is a multi line comment 
+ 	 to describe some more details """
 
 **Bedingung** kleiner Ausschnitt (tbc)
 
->>> if a > b:
->>>     do something()
+.. sourcecode:: 
+if a > b:				# wenn a größer b ist dann
+     tue etwas() 		# wird diese Funktion ausgeführt
 
 
 **Schleife**
