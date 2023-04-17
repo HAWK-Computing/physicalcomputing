@@ -21,11 +21,12 @@ Inhaltsverzeichnis
 --------
 
 .. toctree::
-   :hidden:
+   :titlesonly:
    Kickoff
    ErsteSchritte
    RaspberryPiPico
    Links_Infos
+   Cheatsheet
 
 
 Diese Dokumentation dient als Tutorial und Nachschlagewerk und ist als OER Material für ALLE verfügbar, die Interesse an einer deutschsprachigen Anleitung haben.
