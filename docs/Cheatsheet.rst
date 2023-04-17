@@ -22,7 +22,7 @@ Programm Basics:
 
 **Schleife**
 
-for i in range (Startzahl, Endzahl, Schrittzahl):
+>>> for i in range (Startzahl, Endzahl, Schrittzahl):
 
 https://pythonexamples.org/python-for-i-in-range/
 

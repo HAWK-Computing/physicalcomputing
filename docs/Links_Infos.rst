@@ -8,13 +8,12 @@ https://www.raspberrypi.com/documentation/microcontrollers/rp2040.html#welcome-t
 
 
 Beschaffungsmöglichkeiten
-------------------------
+
 
 
 
 
 Programmiersprachen Lerntools
-------------------------
 
 
 
@@ -36,5 +35,5 @@ Youtube Top 10: https://www.youtube.com/watch?v=Lp8eSCuQqb0
 
 Hinweise
 ----------------------
-Diese Dokumenation wurde mit Sorgfalt und eigenem Bildmaterial erstellt. Fehler und Irrtümer nicht ausgeschlossen. Diese gerne einfach melden...
+Diese Dokumentation wurde mit Sorgfalt und eigenem Bildmaterial erstellt. Fehler und Irrtümer nicht ausgeschlossen. Diese gerne einfach melden...
 Die hinterlegten Links zu anderen Webseiten sind nicht vollständig und deren Benutzung erfolgt auf eigene Gefahr.
