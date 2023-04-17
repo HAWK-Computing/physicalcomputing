@@ -21,7 +21,6 @@ Inhaltsverzeichnis
 --------
 
 .. toctree::
-   :titlesonly:
    Kickoff
    ErsteSchritte
    RaspberryPiPico
