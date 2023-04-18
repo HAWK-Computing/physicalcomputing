@@ -34,7 +34,8 @@ Verbinde dazu den Pico mit dem USB Kabel an deinen Computer und versuche folgend
 
 .. literalinclude:: beispiele/HelloWorld.py
 
-..note:: Probiere aus, wie eine andere LED auf dem Steckbrett zum Blinken gebracht werden kann. Wie kann sie richtig angeschlossen werden? Was muss im Code verändert werden?  
+..note:: 
+Probiere aus, wie eine andere LED auf dem Steckbrett zum Blinken gebracht werden kann. Wie kann sie richtig angeschlossen werden? Was muss im Code verändert werden?  
 
 
 Das Steckbrett

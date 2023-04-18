@@ -9,10 +9,6 @@ https://www.raspberrypi.com/documentation/microcontrollers/rp2040.html#welcome-t
 
 Beschaffungsmöglichkeiten
 
-
-
-
-
 Programmiersprachen Lerntools
 
 
@@ -31,7 +27,8 @@ Das Gehäuse und die Inszenierung als Kunstwerk: http://fernandoorellana.com/
 Blumenstrauß an spannenden Projekten: https://www.niklasroy.com/
 
 Gametheater meets Microcontroller: https://www.machinaex.com/de/projects/
-Youtube Top 10: https://www.youtube.com/watch?v=Lp8eSCuQqb0
+Youtube Arduino Top 10 Projekte: https://www.youtube.com/watch?v=Lp8eSCuQqb0
+Raspberry Pi Pico Top 10: https://www.youtube.com/watch?v=mg0Lu_socvI&pp=ygUYdG9wIDEwIHJhc3BiZXJyeSBwaSBwaWNv
 
 Hinweise
 ----------------------
