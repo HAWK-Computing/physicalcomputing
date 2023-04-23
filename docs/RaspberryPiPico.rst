@@ -3,7 +3,7 @@ Der Raspberry Pi Pico
 
 Das Pin Out des Raspberry Pi Pico
 ----------------
-.. _pinout:
+
 .. image:: bilder/PinBelegungPico.png
     :alt: Pinbelegung Raspberry Pi Pico
 
@@ -39,7 +39,8 @@ Der `RP2040`_ Chip von der Raspberry Pi Foundation 2021 entworfen und entwickelt
 +------------------------+----------------------------------+          
    
 
-.. note:: siehe dazu auch die ausführliche Beschreibung im Elektronik Kompendium zum Thema `Raspberry Pi Pico <https://www.elektronik-kompendium.de/sites/raspberry-pi/2604131.htm>`_ oder direkt auf der `Raspberry Pi Pico Dokumentation <https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html>`_
+.. note:: 
+    siehe dazu auch die ausführliche Beschreibung im Elektronik Kompendium zum Thema `Raspberry Pi Pico <https://www.elektronik-kompendium.de/sites/raspberry-pi/2604131.htm>`_ oder direkt auf der `Raspberry Pi Pico Dokumentation <https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html>`_
 
 
 .. image:: bilder/RaspberryPiPico_Steckbrett_Kabel.png

@@ -17,15 +17,26 @@ Programm Basics:
 
 **Bedingung** kleiner Ausschnitt (tbc)
 
-.. sourcecode:: 
-if a > b:				# wenn a größer b ist dann
-     tue etwas() 		# wird diese Funktion ausgeführt
+.. sourcecode::
+	if a > b:				# wenn a größer b ist dann
+    	 tue etwas() 		# wird diese Funktion ausgeführt
 
 
 **Schleife**
 
 >>> for i in range (Startzahl, Endzahl, Schrittzahl):
 
+**Funktionen im Zusammenhang mit der Hardware**
+.. sourcecode:: 
+	import machine
+	machine.reset() # Setzt das Gerät auf ähnliche Weise
+zurück wie das Drücken der externen RESET-Taste.
+machine.reset_cause() # Ermittelt die Reset-Ursache.
+Siehe Konstanten für die möglichen Rückgabewerte.
+machine.unique_id() # Gibt einen Byte-String mit einem
+eindeutigen Bezeichner eines Boards/SoCs zurück.
+
+**Interessante Python Beispiele**
 https://pythonexamples.org/python-for-i-in-range/
 
 https://realpython.com/python-and-operator/

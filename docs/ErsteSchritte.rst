@@ -7,7 +7,8 @@ Erste Schritte
 Einrichten der Software
 ------------
 
-Um mit dem Microcontroller Raspberry Pi Pico arbeiten zu können, brauchen wir **1.** eine *Entwicklungsumgebung* (*IDE*) auf dem Computer. Die `Thonny Python IDE`_ läuft auf Windows, Mac und Linux ist simple und übersichtlich. Einfach downloaden und installieren.**2.** die richtige *Firmware / Interpreter* auf dem Pi Pico Board.
+Um mit dem Microcontroller Raspberry Pi Pico arbeiten zu können, brauchen wir 
+**1.** eine *Entwicklungsumgebung* (*IDE*) auf dem Computer. Die `Thonny Python IDE`_ läuft auf Windows, Mac und Linux ist simple und übersichtlich. Einfach downloaden und installieren.**2.** die richtige *Firmware / Interpreter* auf dem Pi Pico Board.
 
 .. _Thonny Python IDE: https://thonny.org/
 
@@ -32,10 +33,9 @@ Das erste Programm
 Für das erste Lebenszeichen des Microcontrollers brauchst du das *Steckbrett* noch nicht, denn der Pi Pico besitzt eine *on Board LED* die du mit ein paar Zeilen Code zum Blinken bringen kannst.
 Verbinde dazu den Pico mit dem USB Kabel an deinen Computer und versuche folgenden Code auf dem Board auszuführen.
 
-.. literalinclude:: beispiele/HelloWorld.py
 
-..note:: 
-Probiere aus, wie eine andere LED auf dem Steckbrett zum Blinken gebracht werden kann. Wie kann sie richtig angeschlossen werden? Was muss im Code verändert werden?  
+.. note:: 
+   Probiere aus, wie eine andere LED auf dem Steckbrett zum Blinken gebracht werden kann. Wie kann sie richtig angeschlossen werden? Was muss im Code verändert werden?  
 
 
 Das Steckbrett
