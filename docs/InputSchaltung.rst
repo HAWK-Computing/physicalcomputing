@@ -1,7 +1,8 @@
+===============
 Der erste Input
-==========
+===============
 
-Eine LED können wir zum blinken bringen. Aber wie gelingt es die LED per *Knopfdruck* anzusteuern. Mit Hilfe eines **Tasters** (auch Button genannt)
+Eine LED können wir zum Blinken bringen. Aber wie gelingt es die LED per *Knopfdruck* anzusteuern. Mit Hilfe eines **Tasters** (auch Button genannt)
 
 Der Button alias Taster
 ------------

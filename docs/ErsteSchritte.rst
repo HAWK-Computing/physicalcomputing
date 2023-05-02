@@ -1,14 +1,17 @@
+===============
 Erste Schritte
-=====
+===============
 
 
-.. _installationsoftware:
+
+Die Software
+===============
 
 Einrichten der Software
 ------------
 
 Um mit dem Microcontroller Raspberry Pi Pico arbeiten zu können, brauchen wir 
-**1.** eine *Entwicklungsumgebung* (*IDE*) auf dem Computer. Die `Thonny Python IDE`_ läuft auf Windows, Mac und Linux ist simple und übersichtlich. Einfach downloaden und installieren.**2.** die richtige *Firmware / Interpreter* auf dem Pi Pico Board.
+**1.** eine *Entwicklungsumgebung* (*IDE*) auf dem Computer. Die `Thonny Python IDE`_ läuft auf Windows, Mac und Linux ist simple und übersichtlich. Einfach downloaden und installieren. **2.** die richtige *Firmware / Interpreter* auf dem Pi Pico Board.
 
 .. _Thonny Python IDE: https://thonny.org/
 
@@ -24,8 +27,8 @@ Auf dem Raspberry Pi Pico muss die richtige Firmware (in unserem Fall `Micropyth
 .. _Micropython Firmware: https://micropython.org/download/rp2-pico/rp2-pico-latest.uf2
 .. _hier: https://www.raspberrypi.com/documentation/microcontrollers/micropython.html
 .. _SunFounder: https://docs.sunfounder.com/projects/pico-4wd/en/latest/get_started/install_micropython_to_pico.html
+.. _installationsoftware:
 
-.. _HelloWorld:
 
 Das erste Programm
 -------------------
@@ -33,10 +36,16 @@ Das erste Programm
 Für das erste Lebenszeichen des Microcontrollers brauchst du das *Steckbrett* noch nicht, denn der Pi Pico besitzt eine *on Board LED* die du mit ein paar Zeilen Code zum Blinken bringen kannst.
 Verbinde dazu den Pico mit dem USB Kabel an deinen Computer und versuche folgenden Code auf dem Board auszuführen.
 
+.. literalinclude:: beispiele/HelloWorld.py
 
 .. note:: 
    Probiere aus, wie eine andere LED auf dem Steckbrett zum Blinken gebracht werden kann. Wie kann sie richtig angeschlossen werden? Was muss im Code verändert werden?  
 
+
+Die Hardware
+===============
+
+Neben dem Pico Board selbst gibt es andere nützliche Dinge, die dir helfen schnell ins Physicalische Prototyping zu kommen. Das **Steckbrett**, **Kabel** und diverse **Bauteile**, die du auf das Steckbrett stecken kannst. 
 
 Das Steckbrett
 -----------------
