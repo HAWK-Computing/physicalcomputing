@@ -22,7 +22,6 @@ Inhaltsverzeichnis
 
 .. toctree::
    :maxdepth: 2
-   :caption: Gliederung:
    Kickoff
    ErsteSchritte
    RaspberryPiPico
