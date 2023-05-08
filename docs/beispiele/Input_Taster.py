@@ -10,7 +10,8 @@ taster=machine.Pin(21, machine.Pin.IN, machine.Pin.PULL_UP)#Input
 
 while True:
     
-    if taster.value() == 0:
+    if taster.value() == 0: # da wir den Taster als PULL_UP Pin deklariert haben
+                            # ist er immer 1 / HIGH / TRUE solange nicht gedrückt wird
         led.value(1)
         utime.sleep(0.5)  # kurze Pause, damit die LED nicht sofort ausgeht
     else:

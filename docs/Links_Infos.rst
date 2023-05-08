@@ -10,12 +10,18 @@ https://www.raspberrypi.com/documentation/microcontrollers/rp2040.html#welcome-t
 Beschaffungsmöglichkeiten
 -----------------------
 
-https://www.reichelt.de/einplatinen-mikrocontroller-c8243.html?&nbc=1
+Elektronik Bedarf mit großem Mikrocontroller Sortiment: `reichelt <https://www.reichelt.de/einplatinen-mikrocontroller-c8243.html?&nbc=1>`_
 
-https://www.berrybase.de/raspberry-pi/raspberry-pi-mikrocontroller/
+Spezialisiert auf Raspberry und alles möglich rund um Sensoren und Aktoren: 
+`berrybase <https://www.berrybase.de/raspberry-pi/raspberry-pi-mikrocontroller/>`_
 
 
+Community Plattformen // Anleitungen
+------------------------
 
+Raspberry Pi Forum zum `Thema Pico <https://forums.raspberrypi.com/viewforum.php?f=143&sid=82aebc42e2738670073a17553e509080>`_
+
+`Instructables Anleitungen <https://www.instructables.com/search/projects/all/all/?q=pico&projects=all>`_
 
 Interessante Videos
 ------------------------
