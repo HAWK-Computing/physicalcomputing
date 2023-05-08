@@ -7,6 +7,9 @@ Das Pin Out des Raspberry Pi Pico
 .. image:: bilder/PinBelegungPico.png
     :alt: Pinbelegung Raspberry Pi Pico
 
+Die Pin Belegung des Picos. Welcher Pin ist für was? Hier das `Pico Pinout`_ auch als interaktive Webanwendung finden. 
+
+.. _Pico Pinout: https://pico.pinout.xyz/
 
 Der RP2040 Chip
 -----------------
