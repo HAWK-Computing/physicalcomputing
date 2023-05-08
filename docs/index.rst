@@ -1,9 +1,9 @@
 .. meta::
    :description: Physical Computing mit dem Pi Pico
    :keywords: Sensor, Actor, Physicalcomputing, Programming, Prototyping
-
+===============
 Physical Computing mit dem Raspberry Pi Pico
-===================================
+===============
 
 Hier geht es um die Grundlagen der Microcontrollerprogrammierung.
 Mit dem **Raspberry Pi Pico** und der Programmiersprache **Python** werden wir das Spannungsfeld Mensch / Maschine ergründen.
@@ -27,6 +27,8 @@ Inhaltsverzeichnis
    ErsteSchritte
    RaspberryPiPico
    InputSchaltung
+   ZweiterOutput
+   Picozero
    Links_Infos
    
 
