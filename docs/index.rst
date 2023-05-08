@@ -28,7 +28,7 @@ Inhaltsverzeichnis
    RaspberryPiPico
    InputSchaltung
    ZweiterOutput
-   Picozero
+   Libraries
    Links_Infos
    
 

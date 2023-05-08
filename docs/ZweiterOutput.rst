@@ -16,7 +16,7 @@ https://www.python-lernen.de/if-abfrage-python.htm
 
 gute Bilder https://media.kswillisau.ch/in/procStart/
 
-if (a > 0 ) elif else
+if(a => 0): elif(b == 1): else:
 -----------------
 
 Rot-Grün LED

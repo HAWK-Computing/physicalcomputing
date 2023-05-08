@@ -21,16 +21,32 @@ Die Library Picozero
 
 Wie einfach die Programmierung und die Eingabe von Befehlen durch Libraries werden kann, zeigt die `Picozero`_ Library.
 
-.. sourcecode::	led = machine.Pin(25, machine.Pin.OUT)
-	led = LED(14) # Control an LED connected to pin GP14 
+.. sourcecode::	led = machine.Pin(14, machine.Pin.OUT) # ohne Picozero Library
+				led = LED(14) # mit Picozero Library
 
 Komplizierte Befehle wie led.value(1) werden zu led.on() 
 
-Weitere Beispiele
+Ansteuerung von LEDs
 -----------------
+
+You can import just what you need, separating items with a comma ``,``::
+
+    from picozero import pico_led, LED
+
+Now you can use :obj:`~picozero.pico_led` and :class:`~picozero.LED` in your script::
+
+    pico_led.on() # Turn on the LED on the Raspberry Pi Pico
+    led = LED(14) # Control an LED connected to pin GP14 
+    led.on()
 
 .. _Picozero: https://picozero.readthedocs.io/en/latest/
 
+Blinken
+~~~~~~~~~~
+
+
+Helligkeit
+~~~~~~~~~~
  
 Anwendung der Library
 ------------
