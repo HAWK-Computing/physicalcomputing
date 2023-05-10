@@ -27,7 +27,7 @@ Inhaltsverzeichnis
    ErsteSchritte
    RaspberryPiPico
    InputSchaltung
-   ZweiterOutput
+   Programmierung
    Libraries
    Links_Infos
    

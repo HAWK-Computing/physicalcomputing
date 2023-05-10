@@ -24,16 +24,16 @@ Wie einfach die Programmierung und die Eingabe von Befehlen durch Libraries werd
 .. sourcecode::	led = machine.Pin(14, machine.Pin.OUT) # ohne Picozero Library
 				led = LED(14) # mit Picozero Library
 
-Komplizierte Befehle wie led.value(1) werden zu led.on() 
+Befehle wie ``led.value(1)`` werden zu ``led.on()`` Noch nicht überzeugt? Wenn der Code komplexer wird und nicht nur mit LEDs gearbeitet wird, dann helfen die Vereinfachungen von picozero sehr effektiv!
 
-Ansteuerung von LEDs
+Verwendung von Picozero
 -----------------
 
-You can import just what you need, separating items with a comma ``,``::
+Es kann genau das importiert werden, was gebraucht wird, indem die Einträge mit einem Komma getrennen werden``,``::
 
     from picozero import pico_led, LED
 
-Now you can use :obj:`~picozero.pico_led` and :class:`~picozero.LED` in your script::
+Dadurch können :obj:`~picozero.pico_led` und :class:`~picozero.LED` im Code verwendet werden::
 
     pico_led.on() # Turn on the LED on the Raspberry Pi Pico
     led = LED(14) # Control an LED connected to pin GP14 
@@ -41,20 +41,6 @@ Now you can use :obj:`~picozero.pico_led` and :class:`~picozero.LED` in your scr
 
 .. _Picozero: https://picozero.readthedocs.io/en/latest/
 
-Blinken
-~~~~~~~~~~
+.. note:: 
+	Alle wichtigen **Anwendungsmöglichkeiten** von *picozero* in den `Rezepten <https://picozero.readthedocs.io/en/latest/recipes.html>`_ der sehr guten `Dokumentation <https://picozero.readthedocs.io/en/>`_
 
-
-Helligkeit
-~~~~~~~~~~
- 
-Anwendung der Library
-------------
-
-recepies
-.. note::
-
-.. sourcecode::
-
-Wichtige Befehle
-------------
