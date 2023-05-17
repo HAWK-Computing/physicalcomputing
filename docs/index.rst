@@ -29,6 +29,8 @@ Inhaltsverzeichnis
    InputSchaltung
    Programmierung
    Libraries
+   Analog_Input
+   Cheatsheet
    Links_Infos
    
 
