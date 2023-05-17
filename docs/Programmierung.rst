@@ -24,6 +24,7 @@ Erklärungsansätze Programmierung
         if BackofenTemperatur >= 180:
             Kuchen_in_den_Ofen()
             time.sleep(300000)
+            
 Höhere Programmiersprachen ermöglichen uns, die Maschinensprache die der Computer versteht für uns verständlich zu machen. Bevor wir einen Kuchen backen ist es allerdings sinnvoll
 
 Die if-Bedingung
