@@ -25,7 +25,8 @@ Spezialisiert auf Raspberry und alles möglich rund um Sensoren und Aktoren:
 Interessante Infos / Videos
 =========================
 
-`Thema Microchip Arte Doku <https://www.youtube.com/watch?v=12jIzF1ucJ4>`_
+Frontalbericht über die Microchip Industrie
+https://www.youtube.com/watch?v=UB9i4lKfE90
 
 
 Künstlerische Arbeiten mit Gamecharakter: http://www.fursr.com/
