@@ -22,3 +22,7 @@ https://picozero.readthedocs.io/en/latest/recipes.html#potentiometer
 
 Analoge Sensoren
 -------------
+
+LDR
+Poti
+

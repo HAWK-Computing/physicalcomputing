@@ -7,7 +7,7 @@ from picozero import Pot, LED
 # LED connected to GP0
 
 pot = Pot(26)
-led =  LED(0)
+led =  LED()
 
 while True:
     led.value = pot.value
