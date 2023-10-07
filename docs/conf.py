@@ -7,7 +7,7 @@ copyright = '2023, jasper.kuehn@hawk.de'
 author = 'JLK'
 
 release = '1.0'
-version = '1.0.0'
+version = '1.0.1'
 
 # -- General configuration
 
@@ -17,7 +17,7 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
-    'sphinxcontrib.jquery',
+    #"sphinxcontrib.jquery",
 ]
 
 intersphinx_mapping = {
