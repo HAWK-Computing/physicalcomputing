@@ -1,0 +1,5 @@
+###### Requirements without Version Specifiers ######
+sphinxcontrib-jquery
+
+
+###### Requirements with Version Specifiers ######
