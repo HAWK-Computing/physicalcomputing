@@ -1,0 +1,22 @@
+# Mapfunktion in Python...
+# https://forum.micropython.org/viewtopic.php?t=7615
+
+
+# Will return a float
+def convert(x, in_min, in_max, out_min, out_max):
+    return (x - in_min) * (out_max - out_min) / (in_max - in_min) + out_min
+
+
+# Will return a integer
+def convert(x, in_min, in_max, out_min, out_max):
+    return (x - in_min) * (out_max - out_min) // (in_max - in_min) + out_min
+
+
+# Will return an integer between out_min and out_max
+def convert(x, i_m, i_M, o_m, o_M):
+    return max(min(o_M, (x - i_m) * (o_M - o_m) // (i_M - i_m) + o_m), o_m)
+
+
+# Test
+for i in range(200):
+    print(i, convert(i, 40, 80, 0, 1023))

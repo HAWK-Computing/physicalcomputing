@@ -13,7 +13,7 @@ Hier geht's los: :doc:`ErsteSchritte` für alle weiteren Informationen über die
 
 .. note::
 
-   Dieser Kurs findet in der physikalischen Welt immer Mittwochs an der HAWK Hildesheim Fakultät Gestaltung statt. Updates dieser Dokumentation werden i.d.R. Mittwochs um 12:00 Uhr hier veröffentlicht.
+   Dieser Kurs findet in der physikalischen an der HAWK Hildesheim Fakultät Gestaltung statt. 
 
 
 
@@ -28,13 +28,9 @@ Inhaltsverzeichnis
    RaspberryPiPico
    InputSchaltung
    Programmierung
-   Libraries
-   Analog_Input
-   Digitale_LEDs
    Cheatsheet
    Links_Infos
    
-
 
 Diese Dokumentation dient als Tutorial und Nachschlagewerk und ist als OER Material für ALLE verfügbar, die Interesse an einer deutschsprachigen Anleitung haben.
 
