@@ -13,7 +13,7 @@ Hier geht's los: :doc:`ErsteSchritte` für alle weiteren Informationen über die
 
 .. note::
 
-   Dieser Kurs findet in der physikalischen an der HAWK Hildesheim Fakultät Gestaltung statt. 
+   Dieser Kurs findet in der physikalischen Welt an der HAWK Hildesheim Fakultät Gestaltung statt. 
 
 
 

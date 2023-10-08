@@ -10,17 +10,20 @@ Die Software
 Einrichten der Software
 ------------
 
-Um mit dem Microcontroller Raspberry Pi Pico arbeiten zu können, brauchen wir 
-**1.** eine *Entwicklungsumgebung* (*IDE*) auf dem Computer. Die `Thonny Python IDE`_ läuft auf Windows, Mac und Linux ist simple und übersichtlich. Einfach downloaden und installieren. **2.** die richtige *Firmware / Interpreter* auf dem Pi Pico Board.
+Um mit dem Microcontroller Raspberry Pi Pico arbeiten zu können, brauchen wir
+
+**1.** eine *Entwicklungsumgebung* (*IDE*) auf dem Computer. Die `Thonny Python IDE`_ läuft auf Windows, Mac und Linux ist simple und übersichtlich. Einfach downloaden und installieren. 
+
+**2.** die richtige *Firmware / Interpreter* auf dem Pi Pico Board.
 
 .. _Thonny Python IDE: https://thonny.org/
 
 
 Einrichten von Micropython auf dem Pi Pico
 -------------
-Auf dem Raspberry Pi Pico muss die richtige Firmware (in unserem Fall `Micropython`_ und in manchen Fällen später `Circuitpython`_) installieren. 
+Auf dem Raspberry Pi Pico muss die richtige Firmware (in unserem Fall `Micropython`_ und in manchen Fällen später `Circuitpython`_) installiert werden. 
 
-**Möglichkeit eins:** Flashen der Firmware mit Hilfe der Thonny IDE. Schritt für Schritt erklärt bei `SunFounder`_. Wenn das nicht funktioniert, dann **Möglichkeit zwei:** Manuell die `Micropython Firmware`_ als UF2 Datei auf den Raspberry Pi Pico. Achtung!! dieser muss sich dafür im Bootloadermodus befinden. `Bootsel Taste` drücken, dann mit dem Computer via `USB Kabel` verbinden. Eine *ausführliche Anleitung* gibts `hier`_.
+**Möglichkeit eins:** Flashen der Firmware mit Hilfe der Thonny IDE. Schritt für Schritt erklärt bei `SunFounder`_. Wenn das nicht funktioniert, dann **Möglichkeit zwei:** Manuell die `Micropython Firmware`_ als UF2 Datei auf den Raspberry Pi Pico. Achtung!! dieser muss sich dafür im `Bootloadermodus` befinden. **Dafür:** `Bootsel Taste` drücken, dann mit dem Computer via `USB Kabel` verbinden. Eine *ausführliche Anleitung* gibts `hier`_.
 
 .. _Micropython: https://docs.micropython.org/en/latest/rp2/quickref.html
 .. _Circuitpython: https://circuitpython.org/board/raspberry_pi_pico/
@@ -53,9 +56,13 @@ Das Steckbrett
 .. image:: bilder/Steckbrett_Wiring_kl.gif
     :alt: Verdrahtung eines Steckbretts. Wiring Breadboard
 
-Schnell Prototyping mit dem Steckplatine auch genannt `Breadboard`
-Oder geht es hier zum |WikiSteck|
+Schnell Prototyping mit der Steckplatine, auch genannt `Breadboard`.
+Hier es zum |WikiSteck|
 
 .. |WikiSteck| raw:: html
 
    <a href="https://de.wikipedia.org/wiki/Steckplatine" target="_blank">Wikipedia Eintrag</a> über Steckbretter. 
+
+Die LED
+--------------------
+
