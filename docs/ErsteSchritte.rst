@@ -66,3 +66,4 @@ Hier es zum |WikiSteck|
 Die LED
 --------------------
 
+Licht emittierende Diode. Was ist das? Eine Diode ist ein elektronisches Bauteil, dass nur in eine Richtung Elektronen also Strom durchfließen lässt. Dabei entsteht bei einer LED Licht. Je nach Zusammensetzung und Bauart der LED kann dieses Licht unterschiedliche Farben haben. Daher ist eine LED nicht gleich einer LED. Wir werden hauptsächlich mit Signal leds arbeiten.
