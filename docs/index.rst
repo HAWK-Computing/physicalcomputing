@@ -27,6 +27,7 @@ Inhaltsverzeichnis
    ErsteSchritte
    RaspberryPiPico
    InputSchaltung
+   Analog_Input
    Programmierung
    Cheatsheet
    Links_Infos

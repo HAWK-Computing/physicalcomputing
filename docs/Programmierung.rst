@@ -13,6 +13,7 @@ Erklärungsansätze Programmierung
 Ähnlich wie der Computer bzw. Microcontroller klare Anweisungen im Code braucht, um das Programm auszuführen, so braucht auch das Backen eines leckeren Kuchens ein klares und verständliches Rezept.
 
 .. sourcecode::
+
     #Zutaten
     Zucker = 100
     Mehl = 200
@@ -30,7 +31,7 @@ Höhere Programmiersprachen ermöglichen uns, die Maschinensprache die der Compu
 Die if-Bedingung
 ================
 
-.. image:: bilder/IF-THEN-ELSE_flowchart.png
+.. image:: bilder/IF-THEN-ELSE-END_flowchart.png
     :alt: Programmschema einer if Bedingung
 
 
@@ -51,6 +52,7 @@ Quelle: Von Vectorized by Snubcube based on https://commons.wikimedia.org/wiki/F
     if price == 100:
         print(„price ist genau 100“)
 
+
 Boolesche Operatoren in der if Bedingung
 ---------------------------
 
@@ -59,7 +61,8 @@ Boolesche Operatoren in der if Bedingung
     *Auszug aus Wikipedia*: Boolesche Operatoren werden beispielsweise im Bereich der Programmierung verwendet. Die gebräuchlichsten dieser Operatoren sind der UND- (Konjunktion), ODER- (Disjunktion), NICHT- (Negation).
     Quelle: https://de.wikipedia.org/wiki/Boolescher_Operator
 
-.. sourcecode:: 
+.. sourcecode::
+
     if price < 100 and price > 50:
         print(„price zwischen 100 und 50“)   
 
@@ -69,6 +72,7 @@ Boolesche Operatoren in der if Bedingung
         and (logical und)
         or (logical oder)
         not  (für nicht)
+
 
 Alles über die **if Abfrage in Python**: 
 https://www.python-lernen.de/if-abfrage-python.htm

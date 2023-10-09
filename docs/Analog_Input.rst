@@ -19,8 +19,6 @@ Der Anschluss von Sensoren an den ADC Eingängen ist etwas komplizierter als das
 .. literalinclude:: beispiele/Analoginput_Poti.py
 
 
-
-
 Analoge Sensoren
 -------------
 
