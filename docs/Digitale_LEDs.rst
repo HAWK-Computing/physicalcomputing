@@ -19,6 +19,3 @@ Anschluss der Stripes
 
 .. literalinclude:: beispiele/NeoPixel_Demo_Taster.py
 
-------------------
-Programmierungsseinschub: for-schleife
-------------------
