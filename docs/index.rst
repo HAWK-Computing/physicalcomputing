@@ -26,9 +26,11 @@ Inhaltsverzeichnis
    Kickoff
    ErsteSchritte
    RaspberryPiPico
+   Programmierung
    InputSchaltung
    Analog_Input
-   Programmierung
+   Libraries
+   Digitale_LEDs
    Cheatsheet
    Links_Infos
    

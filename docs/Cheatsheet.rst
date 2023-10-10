@@ -6,7 +6,7 @@ Cheatsheet MicroPython
 
 
 
-Programm Basics:
+Programm Basics
 -----------------------
 
 **Kommentare** helfen dabei sich im Code zurecht zu finden oder bestimmte Codeschnipsel vorübergehend zu deaktivieren ohne sie löschen.
@@ -27,6 +27,7 @@ Programm Basics:
 >>> for i in range (Startzahl, Endzahl, Schrittzahl):
 
 **Funktionen im Zusammenhang mit der Hardware**
+
 .. sourcecode:: 
 	import machine
 

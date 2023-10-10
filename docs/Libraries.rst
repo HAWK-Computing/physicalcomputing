@@ -19,10 +19,9 @@ Dokumentation zu der Library `machine`_ für den Raspberry Pi Pico
 Die Library Picozero
 ==========
 
-Wie einfach die Programmierung und die Eingabe von Befehlen durch Libraries werden kann, zeigt die `Picozero`_ Library.
+Wie einfach die Programmierung und die Eingabe von Befehlen durch Libraries werden kann, zeigt die `Picozero`_ Library.::
 
-.. sourcecode::	led = machine.Pin(14, machine.Pin.OUT) # ohne Picozero Library
-				led = LED(14) # mit Picozero Library
+	led = machine.Pin(14, machine.Pin.OUT) # ohne Picozero Library				led = LED(14) # mit Picozero Library
 
 Befehle wie ``led.value(1)`` werden zu ``led.on()`` Noch nicht überzeugt? Wenn der Code komplexer wird und nicht nur mit LEDs gearbeitet wird, dann helfen die Vereinfachungen von picozero sehr effektiv!
 
