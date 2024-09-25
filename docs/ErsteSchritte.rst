@@ -28,7 +28,7 @@ Auf dem Raspberry Pi Pico muss die richtige Firmware (in unserem Fall `Micropyth
 .. _Micropython: https://docs.micropython.org/en/latest/rp2/quickref.html
 .. _Circuitpython: https://circuitpython.org/board/raspberry_pi_pico/
 .. _Micropython Firmware: https://micropython.org/download/rp2-pico/rp2-pico-latest.uf2
-.. _hier: https://www.raspberrypi.com/documentation/microcontrollers/micropython.html
+.. _hier: <href="https://www.raspberrypi.com/documentation/microcontrollers/micropython.html" target="_blank" rel="noopener noreferrer">
 .. _SunFounder: https://docs.sunfounder.com/projects/pico-4wd/en/latest/get_started/install_micropython_to_pico.html
 .. _installationsoftware:
 
@@ -67,3 +67,5 @@ Die LED
 --------------------
 
 Licht emittierende Diode. Was ist das? Eine Diode ist ein elektronisches Bauteil, dass nur in eine Richtung Elektronen also Strom durchfließen lässt. Dabei entsteht bei einer LED Licht. Je nach Zusammensetzung und Bauart der LED kann dieses Licht unterschiedliche Farben haben. Daher ist eine LED nicht gleich einer LED. Wir werden hauptsächlich mit Signal leds arbeiten.
+
+Rot Grün LED gemeinsame Anode (+)
