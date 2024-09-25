@@ -28,7 +28,7 @@ Auf dem Raspberry Pi Pico muss die richtige Firmware (in unserem Fall `Micropyth
 .. _Micropython: https://docs.micropython.org/en/latest/rp2/quickref.html
 .. _Circuitpython: https://circuitpython.org/board/raspberry_pi_pico/
 .. _Micropython Firmware: https://micropython.org/download/rp2-pico/rp2-pico-latest.uf2
-.. _hier: <href="https://www.raspberrypi.com/documentation/microcontrollers/micropython.html" target="_blank" rel="noopener noreferrer">
+.. _hier: https://www.raspberrypi.com/documentation/microcontrollers/micropython.html target="_blank" rel="noopener noreferrer">
 .. _SunFounder: https://docs.sunfounder.com/projects/pico-4wd/en/latest/get_started/install_micropython_to_pico.html
 .. _installationsoftware:
 

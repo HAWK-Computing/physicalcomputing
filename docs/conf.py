@@ -3,11 +3,11 @@
 # -- Project information
 
 project = 'HAWK Physical Computing'
-copyright = '2023, jasper.kuehn@hawk.de'
+copyright = '2024, jasper.kuehn@hawk.de'
 author = 'JLK'
 
 release = '1.0'
-version = '1.0.1'
+version = '1.0.2'
 
 # -- General configuration
 
