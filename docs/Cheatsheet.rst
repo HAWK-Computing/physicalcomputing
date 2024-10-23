@@ -15,12 +15,23 @@ Programm Basics
  """ this is a multi line comment 
  	 to describe some more details """
 
-**Bedingung** kleiner Ausschnitt (tbc)
+**Bedingung / Conditions** kleiner Ausschnitt (tbc)
 
 .. sourcecode::
-	if a > b:				# wenn a größer b ist dann
-    	 tue etwas() 		# wird diese Funktion ausgeführt
+	if a == b:				# wenn a gleich b ist dann:
+		tue_etwas()	
+	if a > b:				# wenn a größer b ist dann:
+    	tue_dies() 			
+   	if a < b:				# wenn a kleiner b ist dann:
+   		tue_das()
 
+   	if a == b and b > c:	# wenn a gleich b ist UND b größer c dann:
+   		tue_alles()
+   	if a == b or b > c:		# wenn entweder a gleich b ist ODER b größer c dann:
+   		tue_beides()
+
+   		
+*siehe dazu auch: https://www.w3schools.com/python/python_conditions.asp
 
 **Schleife**
 
