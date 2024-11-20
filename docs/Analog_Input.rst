@@ -22,8 +22,8 @@ Der Anschluss von Sensoren an den ADC Eingängen ist etwas komplizierter als das
 Analoge Sensoren
 -------------
 
-LDR
-Temperatur
-Analoge Beschleunigungssensor
+Wie lässt sich ein anderer analoger Sensor anschließen? Zum Beispiel ein *Helligkeitssensor* (auch **LDR** = Light Dependent Resistor genannt)
+
+Andere variable Widerstände die sich direkt an die ADCs anschließen lassen sind zum Beispiel Temperatur Sensoren oder Analoge Beschleunigungssensoren. 
 
 

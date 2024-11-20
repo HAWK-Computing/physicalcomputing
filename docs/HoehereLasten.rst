@@ -21,8 +21,6 @@ Ein `MOSFET <https://www.youtube.com/watch?v=JTFTsVKR_00>`_ funktioniert ähnlic
 
 Der Vorteil gegenüber einem Relais ist, dass auch PWM Signale verarbeitet werden können. Da die Reaktionszeit eines Transistors viel schneller sind. Somit ist das Dimmen von LEDs oder das Regeln von Geschwindigkeiten bei Motoren damit möglich. 
 
-.. sourcecode::
-
 
 
 Shield vs. Selber bauen

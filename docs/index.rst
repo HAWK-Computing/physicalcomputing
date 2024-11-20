@@ -29,6 +29,7 @@ Inhaltsverzeichnis
    Programmierung
    InputSchaltung
    Analog_Input
+   HoehereLasten
    Libraries
    Digitale_LEDs
    Cheatsheet
