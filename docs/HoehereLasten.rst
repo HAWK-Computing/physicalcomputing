@@ -17,7 +17,9 @@ Als Verstärkung oder Schalter kann dann zum Beispiel ein TIP 120 Transistor ver
 
 .. image:: bilder/TIP120.jpg
 
-Ein `MOSFET <https://www.youtube.com/watch?v=JTFTsVKR_00>`_ funktioniert ähnlich. 
+Ein `MOSFET <https://www.youtube.com/watch?v=JTFTsVKR_00>`_ funktioniert ähnlich. Aber Achtung bei der **Pinbelegung** 
+
+.. image:: bilder/Mosfet.jpg
 
 Der Vorteil gegenüber einem Relais ist, dass auch PWM Signale verarbeitet werden können. Da die Reaktionszeit eines Transistors viel schneller sind. Somit ist das Dimmen von LEDs oder das Regeln von Geschwindigkeiten bei Motoren damit möglich. 
 
@@ -25,6 +27,11 @@ Der Vorteil gegenüber einem Relais ist, dass auch PWM Signale verarbeitet werde
 
 Shield vs. Selber bauen
 ------------
+Eigenbau
+
+.. image:: bilder/EigenbauOptoTransistor.jpg
+
+
 HW-532
 
 .. image:: bilder/HW-532_Closeup.jpg
@@ -37,6 +44,9 @@ Relais Shield
 
 Aufbau der Schaltung
 -------------
+
+.. image:: bilder/Mosfet_Circuit.jpg
+N-Channel Mosfet Schaltung: R9 ist ein 220 Ohm Vorwiderstand für den Anschluss direkt an einen GPIO Pin des Raspberry Pi Pico. 
 
 https://www.youtube.com/watch?v=eqXaqRFAWrA
 
